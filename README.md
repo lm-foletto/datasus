@@ -14,7 +14,7 @@
 
 ## Descrição do Projeto
 
-Este projeto visa prever o número de internações hospitalares relacionadas a doenças respiratórias usando dados históricos e variáveis ambientais (como temperatura e qualidade do ar) fornecidos pelo [DATASUS](https://servicos-datasus.saude.gov.br/). A previsão de internações pode auxiliar gestores hospitalares e autoridades de saúde a alocar recursos, preparar leitos e desenvolver estratégias de prevenção.
+Este projeto visa prever o número de internações hospitalares relacionadas a doenças respiratórias usando dados históricos e variáveis ambientais (como temperatura e qualidade do ar) fornecidos pelo [DATASUS](https://servicos-datasus.saude.gov.br/) e [INMET](https://portal.inmet.gov.br/). A previsão de internações pode auxiliar gestores hospitalares e autoridades de saúde a alocar recursos, preparar leitos e desenvolver estratégias de prevenção.
 
 [Manual API](https://datasus.saude.gov.br/wp-content/uploads/2022/02/Manual-de-Utilizacao-da-API-e-Sus-Notifica.pdf)
 
